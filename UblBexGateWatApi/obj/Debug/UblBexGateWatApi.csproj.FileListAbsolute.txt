@@ -1,0 +1,312 @@
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\csc.exe
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\vbc.exe
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\VBCSCompiler.exe
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\UblBexGateWatApi.dll.config
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\UblBexGateWatApi.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\UblBexGateWatApi.pdb
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Antlr3.Runtime.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\EntityFramework.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\EntityFramework.SqlServer.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.Google.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Newtonsoft.Json.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Owin.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Net.Http.Formatting.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Helpers.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Http.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Http.Owin.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Http.WebHost.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Mvc.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Optimization.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Razor.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.WebPages.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.WebPages.Razor.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\WebGrease.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Newtonsoft.Json.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Net.Http.Formatting.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Helpers.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Http.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Http.WebHost.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Mvc.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Optimization.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Razor.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.WebPages.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.WebPages.Razor.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Antlr3.Runtime.pdb
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\EntityFramework.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\EntityFramework.SqlServer.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.Google.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Web.Http.Owin.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\obj\Debug\UblBexGateWatApi.csprojResolveAssemblyReference.cache
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\obj\Debug\UblBexGateWatApi.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\obj\Debug\UblBexGateWatApi.pdb
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\UblBexGateWatApi.XML
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Swashbuckle.Core.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\WebActivatorEx.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\RestSharp.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Buffers.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Memory.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Numerics.Vectors.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Text.Encodings.Web.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Text.Json.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Threading.Tasks.Extensions.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.ValueTuple.dll
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\RestSharp.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Buffers.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Memory.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Numerics.Vectors.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Text.Encodings.Web.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Text.Json.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.Threading.Tasks.Extensions.xml
+c:\users\shahroz manzoor\documents\visual studio 2015\Projects\UblBexGateWatApi\UblBexGateWatApi\bin\System.ValueTuple.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\csc.exe
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\System.Collections.Immutable.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\vbc.exe
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\VBCSCompiler.exe
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\roslyn\VBCSCompiler.exe.config
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\UblBexGateWatApi.dll.config
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\UblBexGateWatApi.XML
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\UblBexGateWatApi.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\UblBexGateWatApi.pdb
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Antlr3.Runtime.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\EntityFramework.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\EntityFramework.SqlServer.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.Google.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Web.Infrastructure.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Newtonsoft.Json.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Owin.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\RestSharp.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Swashbuckle.Core.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Buffers.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Memory.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Net.Http.Formatting.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Numerics.Vectors.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Text.Encodings.Web.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Text.Json.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Threading.Tasks.Extensions.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.ValueTuple.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Helpers.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Http.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Http.Owin.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Http.WebHost.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Mvc.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Optimization.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Razor.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.WebPages.Deployment.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.WebPages.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.WebPages.Razor.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\WebActivatorEx.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\WebGrease.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Newtonsoft.Json.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\RestSharp.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Buffers.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Memory.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Numerics.Vectors.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Text.Encodings.Web.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Text.Json.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Threading.Tasks.Extensions.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.ValueTuple.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Net.Http.Formatting.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Helpers.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Http.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Http.WebHost.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Mvc.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Optimization.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Razor.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.WebPages.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.WebPages.Deployment.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.WebPages.Razor.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Antlr3.Runtime.pdb
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\EntityFramework.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\EntityFramework.SqlServer.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.Google.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Http.Owin.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\obj\Debug\UblBexGateWatApi.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\obj\Debug\UblBexGateWatApi.pdb
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Newtonsoft.Json.Bson.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Cors.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Http.Cors.dll
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Newtonsoft.Json.Bson.pdb
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\Newtonsoft.Json.Bson.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\bin\System.Web.Http.Cors.xml
+D:\EU\Ehsan Ullah\UBL_BEX\Repo\Ubl_Wrapper\UblBexGateWatApi\obj\Debug\UblBexGateWatApi.csprojResolveAssemblyReference.cache
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\csc.exe
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\System.Collections.Immutable.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\vbc.exe
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\VBCSCompiler.exe
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\roslyn\VBCSCompiler.exe.config
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\UblBexGateWatApi.dll.config
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\UblBexGateWatApi.XML
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\UblBexGateWatApi.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\UblBexGateWatApi.pdb
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Antlr3.Runtime.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\EntityFramework.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\EntityFramework.SqlServer.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.Google.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Web.Infrastructure.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Newtonsoft.Json.Bson.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Newtonsoft.Json.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Owin.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\RestSharp.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Swashbuckle.Core.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Buffers.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Memory.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Net.Http.Formatting.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Numerics.Vectors.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Text.Encodings.Web.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Text.Json.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Threading.Tasks.Extensions.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.ValueTuple.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Cors.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Helpers.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Http.Cors.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Http.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Http.Owin.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Http.WebHost.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Mvc.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Optimization.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Razor.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.WebPages.Deployment.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.WebPages.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.WebPages.Razor.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\WebActivatorEx.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\WebGrease.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Newtonsoft.Json.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Newtonsoft.Json.Bson.pdb
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Newtonsoft.Json.Bson.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\RestSharp.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Buffers.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Memory.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Net.Http.Formatting.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Numerics.Vectors.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Text.Encodings.Web.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Text.Json.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Threading.Tasks.Extensions.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.ValueTuple.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Http.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Http.Cors.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Helpers.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Http.WebHost.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Mvc.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Optimization.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Razor.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.WebPages.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.WebPages.Deployment.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.WebPages.Razor.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Antlr3.Runtime.pdb
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\EntityFramework.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\EntityFramework.SqlServer.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.Google.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\bin\System.Web.Http.Owin.xml
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\obj\Debug\UblBexGateWatApi.csprojResolveAssemblyReference.cache
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\obj\Debug\UblBexGateWatApi.dll
+D:\EU\Ehsan Ullah\UBL_BEX\FarhanRepo\updated\UBL-CE-APIGW\UblBexGateWatApi\obj\Debug\UblBexGateWatApi.pdb
